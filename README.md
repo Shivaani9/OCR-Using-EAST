@@ -17,5 +17,6 @@ Textual Content detected and recognized in images can also be summarized as in t
 Opencv - helps in processing of images and is used to develop real time computer vision apps.
 
 Tesseract - open source text recognition engine under Apache 2.0 license, used to extract text from images.
+
 Pytesseract is a wrapper for Tesseract-OCR Engine
 EAST - The EAST pipeline is capable of predicting words and lines of text at arbitrary orientations on 720p images, and furthermore, can run at 13 FPS.
