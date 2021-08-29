@@ -13,6 +13,7 @@ The Output Image is Obtained
 Textual Content detected and recognized in images can also be summarized as in the case of text obtained from a bill/receipt and total amount to be paid can also be obtained.
 
 # INSTALLATIONS - Libraries/Models Used
+
 Opencv - helps in processing of images and is used to develop real time computer vision apps.
 Tesseract - open source text recognition engine under Apache 2.0 license, used to extract text from images.
 Pytesseract is a wrapper for Tesseract-OCR Engine
