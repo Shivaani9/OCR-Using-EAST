@@ -1,6 +1,7 @@
 # OCR-Using-EAST
 
 OCR Text Detection and Text Recognition Using EAST
+
 This repo Includes 3 main processes performed 
 
  1) Text Detection
