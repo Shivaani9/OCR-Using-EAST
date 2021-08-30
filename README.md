@@ -13,7 +13,6 @@ Text Recognition is performed on the input image to recognize the text that is d
 # INSTALLATIONS - Libraries/Models Used
 
 Opencv - helps in processing of images and is used to develop real time computer vision apps.
-
 Tesseract - open source text recognition engine under Apache 2.0 license, used to extract text from images.
 Pytesseract is a wrapper for Tesseract-OCR Engine
 
