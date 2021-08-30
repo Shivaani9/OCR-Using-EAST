@@ -8,8 +8,7 @@ This repo Includes 3 main processes performed
  3) Text Summarization/Summation
  
 Text Detection is the process where textual context of the Input Images are detected using EAST (Efficient and Accurate Scene Text detector) Pre-Trained model, the text detected image is obtained.This Process helps in extraction of region of interest (roi) using basic image cropping / numpy array slicing.
-Text Recognition is performed on the input image to recognize the text that is detected and it is done using Tesseract-OCR Library (pytesseract library)The Output Image is Obtained.
-Textual Content detected and recognized in images can also be summarized as in the case of text obtained from a bill/receipt and total amount to be paid can also be obtained.
+Text Recognition is performed on the input image to recognize the text that is detected and it is done using Tesseract-OCR Library (pytesseract library)The Output Image is Obtained.Textual Content detected and recognized in images can also be summarized as in the case of text obtained from a bill/receipt and total amount to be paid can also be obtained.
 
 # INSTALLATIONS - Libraries/Models Used
 
